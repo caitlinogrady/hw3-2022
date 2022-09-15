@@ -45,12 +45,10 @@ div.blue{
     margin: 0px 50px 0px 0px;
     border-width: 2px 5px 0px 0px;
 }
-div.blue h2{
+div.blue h2,p{
     color: #c4c4c4;
 }
-div.blue p{
-    color:#C4C4C4;
-}
+
 div.yellow{
     background-color: #ffff00;
     text-align: right;
